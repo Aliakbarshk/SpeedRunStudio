@@ -1,0 +1,7 @@
+{
+  "name": "SpeedRun Studio With editor",
+  "description": "Create high-energy tutorial videos. Generate a script, record fast actions to a 2x speed audio track, and automatically sync it back to normal speed.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
